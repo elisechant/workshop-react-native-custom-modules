@@ -2,6 +2,8 @@
 
 This workshop will walk you through the process of creating a Custom Module from scratch in React Native, for __Android__ and __iOS__.
 
+👉 The final version of this Workshop's code can be viewed at the Branch, [final](https://github.com/andreipfeiffer/workshop-react-native-custom-modules/tree/final).
+
 ## Prerequisites
 
 This is an advanced workshop, that requires prior experience using React Native, as we won't cover the basics of React or React Native.
